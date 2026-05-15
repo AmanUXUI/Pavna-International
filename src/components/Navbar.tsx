@@ -30,7 +30,7 @@ export default function Navbar() {
           <img 
             src="https://pavnaintlschool.com/wp-content/uploads/2026/04/cropped-PS-INTERNATIONAL-1-1-scaled-1-2048x684.webp" 
             alt="Pavna School Logo" 
-            className="h-10 md:h-14 w-auto object-contain"
+            className="h-14 md:h-20 w-auto object-contain"
             referrerPolicy="no-referrer"
           />
         </div>
