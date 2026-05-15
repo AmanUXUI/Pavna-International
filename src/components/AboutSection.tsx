@@ -92,7 +92,7 @@ export default function AboutSection() {
                   <div className="flex -space-x-3">
                   {[
                     "https://plus.unsplash.com/premium_photo-1682089936169-d8b131f87407?q=80&w=1470&auto=format&fit=crop",
-                    "/src/assets/images/regenerated_image_1778827388745.avif",
+                    "https://plus.unsplash.com/premium_photo-1723291325908-1bde6fe9bc60?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
                     "https://plus.unsplash.com/premium_photo-1682089792384-a73f54b564a0?q=80&w=1470&auto=format&fit=crop"
                   ].map((url, i) => (
                     <div key={i} className="w-10 h-10 rounded-full border-2 border-brand-navy overflow-hidden bg-brand-navy">
