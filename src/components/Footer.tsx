@@ -14,7 +14,7 @@ const Footer: FC = () => {
           {/* Column 1: Brand */}
           <div className="md:col-span-4 lg:col-span-4">
             <div className="mb-6 bg-white inline-block p-3.5 rounded-[4px] border border-white/10 shadow-lg">
-              <img src="https://i.postimg.cc/bvqjtjRQ/logo.png" alt="Pavna School Logo" className="h-10 md:h-12 w-auto object-contain" />
+              <img src="https://pavnaintlschool.com/wp-content/uploads/2026/04/cropped-PS-INTERNATIONAL-1-1-scaled-1-2048x684.webp" alt="Pavna School Logo" className="h-10 md:h-12 w-auto object-contain" />
             </div>
             <p className="text-gray-400 mb-8 leading-relaxed font-medium text-[13px] pr-4">Empowering future leaders through holistic education, dynamic global curriculum, and unwavering core values.</p>
             

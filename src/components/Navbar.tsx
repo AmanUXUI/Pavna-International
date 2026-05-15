@@ -28,7 +28,7 @@ export default function Navbar() {
         {/* Logo */}
         <div className="flex items-center shrink-0">
           <img 
-            src="https://pavnaschoolaligarh.com/wp-content/uploads/2026/04/Link-Logo-%E2%86%92-Pavna-School-Logo.webp" 
+            src="https://pavnaintlschool.com/wp-content/uploads/2026/04/cropped-PS-INTERNATIONAL-1-1-scaled-1-2048x684.webp" 
             alt="Pavna School Logo" 
             className="h-10 md:h-14 w-auto object-contain"
             referrerPolicy="no-referrer"
